@@ -1,0 +1,25 @@
+.a1{
+    text-decoration: none;
+    font-size: 30px;
+    color: rgb(210, 140, 47);
+}
+.a1:hover{
+    color: aqua;
+    cursor: pointer;
+    
+
+}
+.in_main{
+    display: flex;
+    justify-content:space-evenly
+
+
+}
+h1{
+    text-align: center;
+}
+.p1{
+
+    display: grid;
+    grid-template-columns: repeat(1fr,1fr);
+}
